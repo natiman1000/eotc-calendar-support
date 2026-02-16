@@ -4,7 +4,7 @@ title: EOTC Calendar - Support
 
 # Ethiopian Orthodox Calendar - Support
 
-For questions or feedback, email: your-email@example.com
+For questions or feedback, email: support@fueera.com
 
 ## Privacy Policy
 
